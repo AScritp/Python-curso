@@ -1,4 +1,4 @@
-#---Operaciones
+    #---Operaciones
 #->suma
 suma=6+5
 print(suma,"\n")
@@ -49,7 +49,7 @@ print(num,"\n")
 a=type(num)
 print(a,"\n")
 
-#Condicionales 
+    #---Condicionales 
 num1=7
 num2=20
 
