@@ -14,7 +14,7 @@ print (List[:])
  #parametros, el primero el numero del indice y el segundo
  #el valor que queremos a agregar
  
-#.extend([]); sirve para agregrar una gran cantidad de valores
+#.extend([""]); sirve para agregrar una gran cantidad de valores
  #basicamente concatena nuestra lista con otra que le
  #agregramos.
 
@@ -22,7 +22,7 @@ print (List[:])
  # en el que se encuentra el valor que consultamos
 
 
-#in; función que sirve para consurtar si existe un valor
+#in; función que sirve para consultar si existe un valor
  #en nuestra lista con True (sí está) o Fasle (no está).
   #E.j: print("Miguel" in List)
 
